@@ -15,7 +15,7 @@ namespace Lesson8
             var value2 = 1;
             bool boolen = value1 == value2;
 
-            if (value1 == 1) { }
+            if (value1 == 2) { }
             if (value1 != 1) { }
             if (value1 > 1) { }
             if (value1 >= 1) { }
